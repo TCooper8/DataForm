@@ -1,0 +1,17 @@
+{
+  "name": "squid-collection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Index.jsx",
+  "scripts": {
+    "build": "node node_modules/fable-compiler"
+  },
+  "author": "Big Squid",
+  "license": "ISC",
+  "dependencies": {
+    "fable-core": "^0.7.30"
+  },
+  "devDependencies": {
+    "fable-compiler": "^0.7.51"
+  }
+}
